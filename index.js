@@ -19,11 +19,10 @@ module.exports = {
     "block-closing-brace-newline-before": "always",
     "block-closing-brace-space-after": "never",
     "block-closing-brace-space-before": "always-single-line",
-    "block-no-empty": false,
     "block-no-single-line": true,
     "block-opening-brace-newline-after": "always",
-    "block-opening-brace-newline-before": "never-multi-line",
-    "block-opening-brace-space-after": "never-multi-line",
+    "block-opening-brace-newline-before": "always-single-line",
+    "block-opening-brace-space-after": "always-single-line",
     "block-opening-brace-space-before": "always",
     "color-hex-case": "lower",
     "color-hex-length": "short",
@@ -317,7 +316,7 @@ module.exports = {
     "string-quotes": "single",
     "value-list-comma-newline-after": "always-multi-line",
     "value-list-comma-space-after": "always-single-line",
-    "value-list-comma-space-before": "single",
+    "value-list-comma-space-before": "never",
     "value-no-vendor-prefix": true
   }
 }
