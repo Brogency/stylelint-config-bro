@@ -1,0 +1,20 @@
+{
+  "name": "stylelint-config-bro",
+  "version": "0.0.1",
+  "description": "stylelint config from bro.agency team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Brogency/stylelint-config-bro.git"
+  },
+  "keywords": [
+    "stylelint",
+    "csslint",
+    "bro"
+  ],
+  "author": "Sergey Bratishchev",
+  "license": "MIT"
+}
