@@ -39,7 +39,6 @@ module.exports = {
       "right",
       "bottom",
       "left",
-      "width",
 
       "float",
 
@@ -58,6 +57,7 @@ module.exports = {
       "justify-content",
       "order",
 
+      "width",
       "max-width",
       "min-width",
       "height",
