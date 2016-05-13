@@ -17,7 +17,7 @@ module.exports = {
     "at-rule-semicolon-newline-after": "always",
     "block-closing-brace-newline-after": "always",
     "block-closing-brace-newline-before": "always",
-    "block-closing-brace-space-after": "always-single-line",
+    "block-closing-brace-space-after": "never",
     "block-closing-brace-space-before": "always-single-line",
     "block-opening-brace-newline-after": "always",
     "block-opening-brace-newline-before": "always-single-line",
@@ -299,7 +299,6 @@ module.exports = {
     "number-zero-length-no-unit": true,
     "property-no-vendor-prefix": true,
     "root-no-standard-properties": true,
-    "rule-nested-empty-line-before": "never",
     "rule-non-nested-empty-line-before": ["always", {
       ignore: ["after-comment"]
     }],
