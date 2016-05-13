@@ -299,9 +299,7 @@ module.exports = {
     "number-zero-length-no-unit": true,
     "property-no-vendor-prefix": true,
     "root-no-standard-properties": true,
-    "rule-nested-empty-line-before": ["always", {
-      except: ["first-nested"]
-    }],
+    "rule-nested-empty-line-before": "never",
     "rule-non-nested-empty-line-before": ["always", {
       ignore: ["after-comment"]
     }],
