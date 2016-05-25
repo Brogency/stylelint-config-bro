@@ -277,7 +277,7 @@ module.exports = {
     "function-name-case": "lower",
     "function-parentheses-newline-inside": "never-multi-line",
     "function-parentheses-space-inside": "never",
-    "function-url-quotes": "none",
+    "function-url-quotes": "never",
     "function-whitespace-after": "always",
     "indentation": 2,
     "max-empty-lines": 1,
